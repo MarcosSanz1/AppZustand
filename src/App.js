@@ -28,4 +28,5 @@ function App() {
 
 export default App;
 
-// Hacer apuntes con el video https://www.youtube.com/watch?v=jLcF0Az1nx8&t=377s
+// Hacemos la comprobación del valor de dark y accederemos directamente al cuerpo del documento (html) y añadiremos o eliminaremos la class='dark' que tenemos en (css)
+// Con el botón llamaremos a la función que cambiará el valor de dark.

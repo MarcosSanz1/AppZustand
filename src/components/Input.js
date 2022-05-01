@@ -17,3 +17,6 @@ export default function Input() {
         </div>
     )
 }
+
+// Importamos el "estado" de la lista de personas. Donde meteremos la nueva persona.
+// Con useRef podemos recoger el valor del input, el cual pasamos a addPerson que añadira una nueva persona. Luego usando esto, podemos cambiar el valor del input a ''.

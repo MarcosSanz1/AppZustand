@@ -16,3 +16,5 @@ export default function People() {
         </div>
     )
 }
+
+// Importamos el "estado" de la lista de personas. Después guardamos su contenido en una constante y con map sacamos por pantalla la lista de personas.
